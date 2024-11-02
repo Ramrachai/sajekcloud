@@ -14,9 +14,8 @@ import Blog from "@/components/Blog";
 import Testimonial from "@/components/Testimonial";
 
 export const metadata: Metadata = {
-  title: "Next.js Starter Template for SaaS Startups - Solid SaaS Boilerplate",
-  description: "This is Home for Solid Pro",
-  // other metadata
+  title: "Sajek Cloud | Best cloud deployment service provider",
+  description: "We deploy web applications on the AWS cloud securely and make them scalable.",
 };
 
 export default function Home() {
